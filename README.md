@@ -4,6 +4,14 @@
 
 Görsel arayüz olarak modern ve karanlık bir siberpunk teması sunan **MaterialSkin** kütüphanesi kullanılmıştır.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/559a2ab6-70db-4d69-bf3e-a974bc8f104b" width="800">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/310a5818-2dc7-4f57-aaaf-4d15a5e88077" width="800">
+</p>
+<img src="https://github.com/user-attachments/assets/966c196a-2e48-4e82-8b96-47038bdb5eb2" width="800">
+</p>
 ## 🚀 Temel Özellikler
 
 Sistem içerisinde hayali veya çalışmayan hiçbir fonksiyon yoktur. Aşağıdaki tüm araçlar aktif olarak çalışmaktadır:
