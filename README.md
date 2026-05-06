@@ -10,7 +10,7 @@ Görsel arayüz olarak modern ve karanlık bir siberpunk teması sunan **Materia
 <p align="center">
   <img src="https://github.com/user-attachments/assets/310a5818-2dc7-4f57-aaaf-4d15a5e88077" width="800">
 </p>
-<img src="https://github.com/user-attachments/assets/966c196a-2e48-4e82-8b96-47038bdb5eb2" width="800">
+  <img src="https://github.com/user-attachments/assets/966c196a-2e48-4e82-8b96-47038bdb5eb2" width="800">
 </p>
 ## 🚀 Temel Özellikler
 
